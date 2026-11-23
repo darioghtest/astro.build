@@ -169,5 +169,9 @@
 		"image": "./yan.webp",
 		"twitter": "https://twitter.com/yanthomasdev",
 		"bluesky": "https://bsky.app/profile/yanthomas.dev"
+	},
+	"paragraph-team": {
+		"image": "./paragraph-team.png",
+		"name": "Paragraph Team"
 	}
 }
